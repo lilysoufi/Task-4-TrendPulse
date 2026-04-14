@@ -24,7 +24,7 @@ it loops throug post's ids , fetches data , checks valid emails and counts them 
 
 returns an object with the post ID , Email valid/notValid , array of Hashtags and an array of mentions.
 
- -**formatIsoDateOnly(iso)**
+ - **formatIsoDateOnly(iso)**
 
 Converts ISO strings to YYYY-MM-DD using padStart for consistent two-digit padding.
 

@@ -1,0 +1,15 @@
+# Dependency folders
+node_modules/
+
+# Build outputs
+dist/
+out/
+*.js.map
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

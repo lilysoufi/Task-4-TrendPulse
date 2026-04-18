@@ -9,8 +9,7 @@ A collection of javascript functions and the post data is represented by objects
  1. Async/Await : Fetches multiple posts sequentially from a simulated database.
  2. Regex Post Analysis: Extracts hashtags, mentions, and validates author emails using complex patterns.
  3. ISO Date Formatting: Custom utility to transform timestamps into clean YYYY-MM-DD strings.
- 
- 4.Event Loop Testing: Includes a built-in simulation to demonstrate the priority of Microtasks (Promises) over Macrotasks (setTimeout).
+ 4.Event Loop Testing: Includes a built-in simulation to demonstrate the priority of Microtasks (Promises) over Macrotasks (setTimeout)
  5. Refresh Demo: A controlled interval-based update system.
 
   

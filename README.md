@@ -50,7 +50,3 @@ Predicted Order: 1, 4, 3, 2
 3: Promise (Microtask Queue - High Priority)
 
 2: Timeout (Task Queue - Low Priority)
-
-## 📄 License
-
-MIT
